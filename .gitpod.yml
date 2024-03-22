@@ -1,7 +1,7 @@
 
-tasks:
-  - init: |
-      go build
+# tasks:
+  # - init: |
+  #     go build
     # command: |
     #   ./mycli --help
 vscode:
